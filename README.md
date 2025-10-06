@@ -1,5 +1,5 @@
 # TinyTEE
-# Trusted Execution Environment(TEE) for resource constrained IoT Devices
+Trusted Execution Environment(TEE) for resource-constrained IoT Devices
 
 ## Requierments
 
